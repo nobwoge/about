@@ -13,7 +13,7 @@ CSS & HTML
 email ; albertnyambegaa@gmail.com
 mobile phone .+354706811129
 ##  link to live site 
-
+https://nobwoge.github.io/about/
 ### License
 *MIT LICENSE*
 Copyright (c) 2022 **ALbert o.*
